@@ -34,3 +34,7 @@ Here are some ideas to get you started:
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
 
+
+# Blog posts
+<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
+https://devwords.pl/junior-rekrutacja-cz-1/
