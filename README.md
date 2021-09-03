@@ -36,4 +36,10 @@ Here are some ideas to get you started:
 
 
 # Blog posts
-<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+- [Izolacje transakcji.](https://devwords.pl/blokowanie-izolacje-tranzakcji/)
+- [Transakcja w bazie danych.](https://devwords.pl/transakcja-w-bazie-danych/)
+- [5 Sposobów Jak Programować Lepiej](https://devwords.pl/5-sposobow-jak-programowac-lepiej/)
+- [Collectors() i Collect().](https://devwords.pl/metod-collect/)
+- [SRP –  Single Responsibility Principle](https://devwords.pl/srp-single-responsibility-principle/)
+<!-- BLOG-POST-LIST:END -->
