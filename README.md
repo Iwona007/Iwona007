@@ -38,3 +38,17 @@ Here are some ideas to get you started:
 # Blog posts
 <!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
 https://devwords.pl/junior-rekrutacja-cz-1/
+name: Latest blog post workflow
+on:
+  schedule: # Run workflow automatically
+    - cron: '0 * * * *' # Runs every hour, on the hour
+  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: iwona007/blog-post-workflow@master
+        with:
+          feed_list: "https://devwords.pl/junior-rekrutacja-cz-1/"
