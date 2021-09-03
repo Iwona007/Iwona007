@@ -11,4 +11,4 @@ jobs:
       - uses: actions/checkout@v2
       - uses: iwona007/blog-post-workflow@mein
         with:
-          feed_list: "https://devwords.pl/"
+          feed_list: "https://devwords.pl/feed/"
