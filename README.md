@@ -37,9 +37,9 @@ Here are some ideas to get you started:
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Serializable – transakcje w Oracle](https://devwords.pl/serializable-transakcje-oracle/)
 - [Spring Boot 2 – Tworzenie efektywnych aplikacji internetowych](https://devwords.pl/spring-boot-2-tworzenie-efektywnych-aplikacji-internetowych/)
 - [Izolacje transakcji.](https://devwords.pl/blokowanie-izolacje-tranzakcji/)
-- [Serializable – transakcje w Oracle](https://devwords.pl/serializable-transakcje-oracle/)
 - [Transakcja w bazie danych.](https://devwords.pl/transakcja-w-bazie-danych/)
 - [5 Sposobów Jak Programować Lepiej](https://devwords.pl/5-sposobow-jak-programowac-lepiej/)
 <!-- BLOG-POST-LIST:END -->
