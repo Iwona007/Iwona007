@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 <!-- BLOG-POST-LIST:START -->
 - [Spring Boot 2 – Tworzenie efektywnych aplikacji internetowych](https://devwords.pl/spring-boot-2-tworzenie-efektywnych-aplikacji-internetowych/)
 - [Izolacje transakcji.](https://devwords.pl/blokowanie-izolacje-tranzakcji/)
+- [Serializable – transakcje w Oracle](https://devwords.pl/serializable-transakcje-oracle/)
 - [Transakcja w bazie danych.](https://devwords.pl/transakcja-w-bazie-danych/)
 - [5 Sposobów Jak Programować Lepiej](https://devwords.pl/5-sposobow-jak-programowac-lepiej/)
-- [Collectors() i Collect().](https://devwords.pl/metod-collect/)
 <!-- BLOG-POST-LIST:END -->
