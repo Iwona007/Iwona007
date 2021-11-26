@@ -37,9 +37,9 @@ Here are some ideas to get you started:
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Linux WSL2 – instalacja na Windows 10](https://devwords.pl/linux-wsl2-instalacja-na-windows-10/)
 - [Read Only i Read Write](https://devwords.pl/set-transaction-read-only-lub-read-write-ktora-transakcje-wybrac/)
 - [Junior &amp; rekrutacja cz.2 aktualizacja](https://devwords.pl/junior-rekrutacja-cz-2-aktualizacja/)
 - [Serializable – transakcje w Oracle](https://devwords.pl/serializable-transakcje-oracle/)
 - [Spring Boot 2 – Tworzenie efektywnych aplikacji internetowych](https://devwords.pl/spring-boot-2-tworzenie-efektywnych-aplikacji-internetowych/)
-- [Izolacje transakcji.](https://devwords.pl/blokowanie-izolacje-tranzakcji/)
 <!-- BLOG-POST-LIST:END -->
