@@ -39,11 +39,11 @@ Here are some ideas to get you started:
 # Blog posts
 - 📝 I regularly write articles on [https://devwords.pl/](https://devwords.pl/)
 <!-- BLOG-POST-LIST:START -->
+- [Flyway – migracja](https://devwords.pl/flyway-migracja/)
 - [Nowości w Java 18](https://devwords.pl/nowosci-w-java-18/)
 - [Współpraca z testerami](https://devwords.pl/wspolpraca-z-testerami/)
 - [Bazy danych w aplikacji Java](https://devwords.pl/bazy-danych-w-aplikacji-java/)
 - [Procedury w PL/SQL](https://devwords.pl/procedury-w-pl-sql/)
-- [Linux WSL2 – instalacja na Windows 10](https://devwords.pl/linux-wsl2-instalacja-na-windows-10/)
 <!-- BLOG-POST-LIST:END -->
 
 
