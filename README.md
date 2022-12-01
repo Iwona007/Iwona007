@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi👋 I am Iwona Adamkiewicz
 
 <!--
 **Iwona007/Iwona007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
