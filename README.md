@@ -39,11 +39,11 @@ Here are some ideas to get you started:
 # Blog posts
 - 📝 I regularly write articles on [https://devwords.pl/](https://devwords.pl/)
 <!-- BLOG-POST-LIST:START -->
-- [Zamin powstał Maven](https://devwords.pl/zamin-powstal-maven/)
-- [Feedback – dlaczego ważny](https://devwords.pl/feedback-dlaczego-wazny/)
-- [Flyway – migracja](https://devwords.pl/flyway-migracja/)
-- [Nowości w Java 18](https://devwords.pl/nowosci-w-java-18/)
-- [Współpraca z testerami](https://devwords.pl/wspolpraca-z-testerami/)
+- [test](https://devwords.pl/test/)
+- [parimatch canlı casino – Parimatch Girişparimatch](https://devwords.pl/parimatch-canl-casino-parimatch-giriparimatch/)
+- [bet siteleri – Flashscore Canli Skor İddaa Sonuçlari, Spor Toto Süper Lig, Canli iddaa Maç Sonuçları](https://devwords.pl/bet-siteleri-flashscore-canli-skor-ddaa-sonuclari/)
+- [bahsegel casino – Dinamobet Yeni GiriÅŸ 5 09 2022 Bahis ve Casino Siteleri](https://devwords.pl/bahsegel-casino-dinamobet-yeni-giriy-5-09-2022/)
+- [casino rulet oyna – Canlı Casino Rulet Oyna Online Casino Oyunları Canlı Rulet](https://devwords.pl/casino-rulet-oyna-canl-casino-rulet-oyna-online/)
 <!-- BLOG-POST-LIST:END -->
 
 
