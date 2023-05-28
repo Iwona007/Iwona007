@@ -39,11 +39,11 @@ Here are some ideas to get you started:
 # Blog posts
 - 📝 I regularly write articles on [https://devwords.pl/](https://devwords.pl/)
 <!-- BLOG-POST-LIST:START -->
+- [Rekrutacja mid -a](https://devwords.pl/rekrutacja-mid/)
 - [Zhakowanie bloga](https://devwords.pl/zhakowanie-bloga/)
 - [Zamin powstał Maven](https://devwords.pl/zamin-powstal-maven/)
 - [Feedback – dlaczego ważny](https://devwords.pl/feedback-dlaczego-wazny/)
 - [Flyway – migracja](https://devwords.pl/flyway-migracja/)
-- [Nowości w Java 18](https://devwords.pl/nowosci-w-java-18/)
 <!-- BLOG-POST-LIST:END -->
 
 
