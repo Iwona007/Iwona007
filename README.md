@@ -39,11 +39,11 @@ Here are some ideas to get you started:
 # Blog posts
 - 📝 I regularly write articles on [https://devwords.pl/](https://devwords.pl/)
 <!-- BLOG-POST-LIST:START -->
+- [Events in Swing](https://devwords.pl/events-in-spring/)
 - [Event-y: SWING](https://devwords.pl/event-y-swing/)
 - [Events and the Observer pattern](https://devwords.pl/events-and-observer-pattern/)
 - [Event-y a wzorzec obserwator](https://devwords.pl/event-wzorzec-obserwator/)
 - [Rekrutacja mid -a](https://devwords.pl/rekrutacja-mid/)
-- [Zhakowanie bloga](https://devwords.pl/zhakowanie-bloga/)
 <!-- BLOG-POST-LIST:END -->
 
 
