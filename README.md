@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 ## Git Stats
 <!-- [https://github.com/anuraghazra/github-readme-stats ](https://github.com/anuraghazra/github-readme-stats)-->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iwona007&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iwona007&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=iwona007&size_weight=0.5&count_weight=0.5)](https://github.com/iwona007/github-readme-stats) -->
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Iwona007&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
